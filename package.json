@@ -1,0 +1,27 @@
+{
+  "name": "metric-imp-converter",
+  "version": "1.0.0",
+  "description": "a free code camp project",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha ./tests/ --ui tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethKennedy/metric-imp-converter.git"
+  },
+  "keywords": [
+    "node",
+    "freeCodeCamp",
+    "express"
+  ],
+  "author": "Elizabeth Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizabethKennedy/metric-imp-converter/issues"
+  },
+  "homepage": "https://github.com/ElizabethKennedy/metric-imp-converter#readme",
+  "dependencies": {
+    "chai": "^5.1.0"
+  }
+}
